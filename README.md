@@ -1,4 +1,4 @@
-# Linux Terminal commands
+# Linux terminal (GitBash) commands
 1) Посмотреть где я   **pwd**
 2) Создать папку    **mkdir Terminal**
 3) Зайти в папку **cd Terminal**
