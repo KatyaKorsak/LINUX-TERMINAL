@@ -29,11 +29,11 @@ http://162.55.220.72:5006/terminal-hw-request
 2. Внести изменения: **vim auto.sh**
 3. Нажать клавишу **"i" ввести текст**
 4.**#!/bin/sh** 
-5. **cd Nadya/**
-6. **mkdir a_1 a_2 a_3**
-7. **cd a_1/**
+5. **cd Terminal/**
+6. **mkdir k1 k2 k3**
+7. **cd t1/**
 8. **touch 1.txt 2.txt 3.txt 4.json 5.json**
-9. **mkdir b_1 b_2 b_3**
+9. **mkdir e1 e2 e3**
 10. **ls -la**
 11. **mv 1.txt 2.txt F1/**
 12. Cохранить и выйти: **"esc" ":wq"**
