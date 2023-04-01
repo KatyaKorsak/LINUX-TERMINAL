@@ -38,3 +38,6 @@ http://162.55.220.72:5006/terminal-hw-request
 11. **mv 1.txt 2.txt F1/**
 12. Cохранить и выйти: **"esc" ":wq"**
 13. Выполняем скрипт: **sh auto.sh ./auto**
+
+
+# Linux terminal (GitBash) commands
