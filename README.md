@@ -133,7 +133,7 @@ http://162.55.220.72:5006/terminal-hw-request
 - the second 2
 - the third 3
 
-**cat >> tf_2.txt
+**cat >> tf_2.txt**
 
 **-the first 1
 -the second 2
@@ -145,37 +145,44 @@ http://162.55.220.72:5006/terminal-hw-request
 
 8. Через cat сделать текстовый файл tf_3.txt  c любыми строками
 
-**cat >> tf_3.txt
-string1
+**cat >> tf_3.txt**
+
+**string1
 string2
 string3
 string4**
 
 9. Через cat добавить в текстовый файл tf_3.txt строку “the second 2”
 
-**cat >> tf_3.txt
-the second 2**
+**cat >> tf_3.txt**
+
+**the second 2**
 
 10. Через cat добавить в текстовый файл tf_3.txt строку “the sec 2”
 
-**cat >> tf_3.txt
-the sec 2**
+**cat >> tf_3.txt**
+
+**the sec 2**
 
 11. Через cat добавить в текстовый файл tf_2.txt строку “the sec 3”
-**cat >> ../tf_2.txt
-the sec 3**
+**cat >> ../tf_2.txt**
+
+**the sec 3**
 
 12. Через cat добавить в текстовый файл tf_3.txt строку “the SeCoNd 2”
 **cat >> tf_3.txt
-the SeCoNd 2**
+
+**the SeCoNd 2**
 
 13. Через cat добавить в текстовый файл tf_2.txt строку “the seConD 2”
-**cat >> ../tf_2.txt
-the seConD 2**
+**cat >> ../tf_2.txt**
+
+**the seConD 2**
 
 14. Сделать текстовый файл tf_4.txt в котором будет 15 строк.
 
-**cat >> tf_4.txt
+**cat >> tf_4.txt**
+
 string1
 string2
 string3
