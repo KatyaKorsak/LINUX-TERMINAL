@@ -90,13 +90,21 @@ http://162.55.220.72:5006/terminal-hw-request
 **curl 'http://162.55.220.72:5006/get_method?name=Katya&age=27'**
 
 2) Написать скрипт который выполнит автоматически пункты 3, 4, 5, 6, 7, 8, 13
+
 **#!/bin/bash
+
 cd papka1
+
 mkdir papka1 papka2 papka3
+
 cd papka4
+
 touch 1.txt 2.txt 3.txt 4.json 5.json 
+
 mkdir papka4 papka5 papka6
+
 ls -la
+
 mv papka1/4.json papka1/1.txt papka2**
 
 # Linux terminal (Homework 2)
