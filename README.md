@@ -8,18 +8,29 @@
 **mkdir Terminal**
 
 3) Зайти в папку 
+
 **cd Terminal**
+
 4) Создать 3 папки 
+
 **mkdir papka1 papka2 papka3**
+
 5) Зайти в любоую папку 
+
 **cd papka1**
+
 6) Создать 5 файлов (3 txt, 2 json)  
+
 **touch 1.txt 2.txt 3.txt 4.json 5.json**  
 or
 **cat > 1.txt 2.txt 3.txt 4.json 5.json**
+
 7) Создать 3 папки
+
 **mkdir papka4 papka5 papka6**
+
 8) Вывести список содержимого папки 
+
 **ls -la**
 9) Открыть любой txt файл 
 **vim 1.txt**  
