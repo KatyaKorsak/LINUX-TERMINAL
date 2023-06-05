@@ -204,7 +204,8 @@ string15**
 
 15. Сделать текстовый файл tF_5.txt в котором будет 13 строк.
 **cat >> tf_5.txt
-string1
+
+**string1
 string2
 string3
 string4
@@ -219,6 +220,7 @@ string12
 string13**
 
 16. Вывести список всех файлов в папке. 
+
 **ls -la**
 
 17. Выйти из папки inner_dir_1 
