@@ -186,7 +186,7 @@ string4**
 
 **cat >> tf_4.txt**
 
-string1
+**string1
 string2
 string3
 string4
