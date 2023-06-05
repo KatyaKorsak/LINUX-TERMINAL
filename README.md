@@ -4,6 +4,7 @@
 2) Создать папку    
 **mkdir Terminal**
 3) Зайти в папку 
+
 **cd Terminal**
 4) Создать 3 папки 
 **mkdir papka1 papka2 papka3**
