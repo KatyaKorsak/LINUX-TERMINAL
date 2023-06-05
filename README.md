@@ -172,7 +172,7 @@ string4**
 
 12. Через cat добавить в текстовый файл tf_3.txt строку “the SeCoNd 2”
 
-**cat >> tf_3.txt
+**cat >> tf_3.txt**
 
 **the SeCoNd 2**
 
@@ -203,7 +203,8 @@ string14
 string15**
 
 15. Сделать текстовый файл tF_5.txt в котором будет 13 строк.
-**cat >> tf_5.txt
+
+**cat >> tf_5.txt**
 
 **string1
 string2
